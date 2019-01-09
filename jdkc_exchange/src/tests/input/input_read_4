@@ -1,0 +1,52 @@
+M,Kayla,Rivera,kjrivera1,kjrivera@valdosta.edu,2018-10-25-12-30
+M,Joanne,Wardell,jawardell,jawardell@valdosta.edu,2018-10-25-12-30
+M,KD,Adkins,kdadkins,dsadkins@valdosta.edu,2018-10-25-12-30
+M,Christian,Gerhardt,clgerhardt,clgerhardt@valdosta.edu,2018-10-25-12-30
+G,skate boarding,a group about skate boarding,2018-10-25-12-30
+G,animal hospital,for Q&A about sick pets,2018-10-25-12-30
+G,kayaking,a group about kayaking,2018-10-25-12-30
+G,soccer,q/a group for soccer,2018-10-25-12-30
+G,coffee,forum for coffee inquiries,2018-10-25-12-30
+G,night life,a board about night venues,2018-10-25-12-30
+G,cooking,group about cooking,2018-10-25-12-30
+
+
+G|cooking|2018-10-25-12-30
+
+^^^dummy line there
+
+
+J,kjrivera@valdosta.edu,night life, 2018-10-25-12-30
+J,kjrivera@valdosta.edu,cooking,2018-10-25-12-30
+J,kjrivera@valdosta.edu,soccer,2018-10-25-12-30
+J,clgerhardt@valdosta.edu,soccer,2018-10-25-12-30
+J,clgerhardt@valdosta.edu,coffee,2018-10-25-12-30
+J,dsadkins@valdosta.edu,soccer,2018-10-25-12-30
+J,dsadkins@valdosta.edu,skate boarding,2018-10-25-12-30
+J,dsadkins@valdosta.edu,cooking,2018-10-25-12-30
+J,jawardell@valdosta.edu,skate boarding,2018-10-25-12-30
+J,jawardell@valdosta.edu,night life,2018-10-25-12-30
+J,jawardell@valdosta.edu,animal hospital,2018-10-25-12-30
+J,jawardell@valdosta.edu,kayaking,2018-10-25-12-30
+J,clgerhardt@valdosta.edu,night life,2018-10-25-12-30
+J,jawardell@valdosta.edu,soccer,2018-10-25-12-30
+J,jawardell@valdosta.edu,coffee,2018-10-25-12-30
+J,jawardell@valdosta.edu,cooking,2018-10-25-12-30
+PQ,egg roll,how do i make an egg roll?,2018-10-25-12-30,kjrivera@valdosta.edu,cooking
+PQ,tuna salad,why is tuna salad so gross?,2018-10-25-12-30,dsadkins@valdosta.edu,cooking
+PQ,cafe bustello,why does cafe bustello make me feel bad,2018-10-25-12-30,jawardell@valdosta.edu,coffee
+PQ,Ollie Question No. 1,How can I perform the Ollie trick?,2018-10-25-12-30,dsadkins@valdosta.edu,skate boarding
+PQ,wheels,one of my wheels came off what should I do?,2018-10-25-12-30,jawardell@valdosta.edu,skate boarding
+PQ,butter: good or not?,why is butter unhealthy,2018-10-25-12-30,kjrivera@valdosta.edu,cooking
+PQ,best bar in town,what is the best bar in valdosta,2018-10-25-12-30,kjrivera@valdosta.edu,night life
+PQ,offside?,can someone explain the offside rule?,2018-10-25-12-30,jawardell@valdosta.edu,soccer
+PQ,Soccer Ball,is a soccer ball round?,2018-10-25-12-30,clgerhardt@valdosta.edu,soccer
+PQ,Hamster Emergency,Help! Why is my hamster shaking?,2018-10-25-12-30,jawardell@valdosta.edu,animal hospital
+PQ,perception kayak,how can i plug a hole in my boat?,2018-10-25-12-30,jawardell@valdosta.edu,kayaking
+PA,tuna salad,no tuna salady is actually really good,2018-10-25-12-30,jawardell@valdosta.edu,cooking
+PA,cafe bustello,maybe because it's cheap coffee..,2018-10-25-12-30,clgerhardt@valdosta.edu,coffee
+PA,best bar in town,mulligans,2018-10-25-12-30,jawardell@valdosta.edu,night life
+PA,best bar in town,blue water,2018-10-25-12-30,clgerhardt@valdosta.edu,night life
+PA,offside?,mann.. some stuff and blah blah,2018-10-25-12-30,dsadkins@valdosta.edu,soccer
+PA,Soccer Ball,no it is triangular,2018-10-25-12-30,dsadkins@valdosta.edu,soccer
+PA,Soccer Ball,no way the ball is a cube,2018-10-25-12-30,jawardell@valdosta.edu,soccer

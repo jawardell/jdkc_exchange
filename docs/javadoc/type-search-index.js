@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"jdkc_exchange","l":"Answer"},{"p":"jdkc_exchange","l":"Group"},{"p":"jdkc_exchange","l":"Member"},{"p":"jdkc_exchange","l":"Membership"},{"p":"jdkc_exchange","l":"PersistenceManager"},{"p":"jdkc_exchange","l":"Post"},{"p":"jdkc_exchange","l":"Question"},{"p":"jdkc_exchange","l":"SiteManager"}]

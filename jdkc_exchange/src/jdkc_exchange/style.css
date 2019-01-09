@@ -1,0 +1,67 @@
+.root {
+	-fx-background-color:rgb(255,255,255);
+	-fx-padding: 10, 10, 10, 10;
+	-fx-font-size: 12pt ;
+	-fx-font-family:  Liberation Mono ;
+	-fx-focus-color:white;
+}
+
+.label {
+	-fx-text-fill:rgb(0,0,0);
+}
+
+.separator{
+    -fx-background-color: #000000;
+    -fx-background-radius: 2;
+}
+
+.button:hover {
+    -fx-background-color:rgb(133,0,0);
+    -fx-text-fill:rgb(255,255,255);
+}
+
+
+#currentButton {
+	-fx-background-color:rgb(133,0,0);
+    -fx-text-fill:rgb(255,255,255);
+}
+
+.button {
+    -fx-pref-width: 175px;
+    -fx-pref-height: 50px;
+    -fx-min-height: 50px;
+    -fx-wrap-text: true;
+}
+
+.button:pressed {
+    
+}
+
+
+#hBoxStyle {
+/*-fx-background-color: linear-gradient( from 0.0% 0.0% to 100.0% 100.0%, rgb(255,255,255) 0.0, rgb(255,255,255) 0.0, rgb(133,0,0) 100.0);
+meh..*/}
+
+
+
+
+#message {
+	-fx-font-style: italic; 
+}
+
+
+
+#titleHeader {
+	-fx-font-style: italic;
+	-fx-font-weight: bold;
+	-fx-text-fill: rgb(133,0,0);
+	-fx-font-size: 20pt;
+}
+
+#browseButton {
+	-fx-pref-width: 175px;
+    -fx-pref-height: 35px;
+    -fx-min-height: 35px;
+    -fx-wrap-text: true;
+	
+}
