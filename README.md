@@ -6,7 +6,7 @@
 jdkc_exchange is an API for managing networks of object oriented Q&A communities. This is a brief overview of how it can be used. <br>
 
 ## Usage
-You'll need to have the Java Runtime Environment installed and configured. If you plant to contribute to the API, you will also need to install the Java Development Kit. 
+You'll need to have the Java Runtime Environment installed and configured. If you plan to contribute to the API, you will also need to install the Java Development Kit. 
 
 To use this API, download the jar file `jdkc_exchange.jar` and add it to your project's build path.
 
