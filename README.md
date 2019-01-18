@@ -15,7 +15,8 @@ To use this API, download the jar file `jdkc_exchange.jar` and add it to your pr
 
 View the documentation for this project by clicking [here](http://mypages.valdosta.edu/jawardell/javadoc/index.html).
 
-
+## Authors 
+@kdtrey @clgerhardt @kayrivera @jawardell
 
 ## Class Methods
 Methods have public package access and all attributes are encapsulated privately within their class.
